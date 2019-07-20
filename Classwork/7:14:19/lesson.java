@@ -17,6 +17,8 @@ public class lesson{
       //Store an integer in a value.
       //Create a value named var and give it a value of 7.
       int var = 7;
+
+
       // One equal sign means assignment. The thing to its left is being assigned the value to its right.
       System.out.println(var);
       //Create a variable named dec and give it a value of 9.3
@@ -48,14 +50,20 @@ public class lesson{
       // for loop
       // while loop
 
-      for(int i = 0; i <= 10; i++){
-        System.out.println(i);
+
         //first part is the assignment
         //second part is the condition
         //third part is the increment
         //i++ is the same as i += 1 which is the same as i = i+1
         //<= less than equal to
         //>= greater than equal to
+        for(int g = 0; g <= 10; g++){
+          System.out.println(g);
+
+        
+
+
+        }
       }
   }
 }
